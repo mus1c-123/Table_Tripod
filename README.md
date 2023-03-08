@@ -2,7 +2,7 @@
 This project is documentation for a secure and durable table smartphone tripod that I was looking for and ultimately made.
 
 # Backstory
-During the pandemic, I was a junior (Electrical & Computer Engineering @ University of Missouri-Kansas City) looking for a secure and durable table tripod for my phone. Looking around on the market, I found the products unsatisfactory. Some were made with cheap materials while others were engineered to be fragile.
+During the pandemic, I was a junior (Electrical & Computer Engineering @ University of Missouri-Kansas City) looking for a secure and durable table tripod for my phone. Looking around on the market, I found the products on the unsatisfactory. Some were made with cheap materials while others were engineered to be fragile and eye appealing.
 
 # Evolution
 Here I will share the evolution of parts added and explain why I have evolved the design.
